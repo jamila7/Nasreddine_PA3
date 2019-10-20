@@ -1,7 +1,7 @@
 import java.security.SecureRandom;
 import java.util.Scanner;
 /* Problem 1*/
-public class problem1 {
+public class program01 {
     private static int val1;
     private static int val2;
     private static char operator = '\0';

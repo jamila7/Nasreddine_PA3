@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18eefa86-3eba-45d9-a63b-3dc2f838e7ba" name="Default Changelist" comment="">
+    <list default="true" id="7cd41acc-7b6f-42f3-a23c-0f7611139191" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Example01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Nasreddine_PA3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Nasreddine_p1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../problem01/.idea/misc.xml" afterDir="false" />
@@ -34,10 +33,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SRdWBhCMYMFlqKfagokJcECOuz" />
+  <component name="ProjectId" id="1SRriVWobh9GpSqAFYKcgoQKuS9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,11 +76,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18eefa86-3eba-45d9-a63b-3dc2f838e7ba" name="Default Changelist" comment="" />
-      <created>1571530371872</created>
+      <changelist id="7cd41acc-7b6f-42f3-a23c-0f7611139191" name="Default Changelist" comment="" />
+      <created>1571537376157</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571530371872</updated>
+      <updated>1571537376157</updated>
     </task>
     <servers />
   </component>
